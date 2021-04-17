@@ -1,0 +1,57 @@
+[{
+    "Imagesfile": "food01",
+    "Foodname": "Steak Australia Beef",
+    "Shopname": "SteakHouse",
+    "Price": 350,
+    "Popular": "review5",
+    "Descript": "สเต๊กเนื้อนำเข้าจากออสเตรเลีย วัตถุดิบระดับพรีเมี่ยม มีการหมัก และ กระบวนการทำที่สะอาด ไม่ค้างคืน"
+}, {
+    "Imagesfile": "food02",
+    "Foodname": "Steak Thai Beef",
+    "Shopname": "SteakHouse",
+    "Price": 150,
+    "Popular": "review4",
+    "Descript": "สเต๊กเนื้อจากประเทศไทยแท้ๆ ใช้เวลาในการบ่มถึง 30 วันเพื่อให้รสชาติมีความกลมกล่อมและหอมหวานมากยิ่งขึ้น"
+}, {
+    "Imagesfile": "food03",
+    "Foodname": "Spaghetti Carbonara",
+    "Shopname": "SteakHouse",
+    "Price": 80,
+    "Popular": "review4",
+    "Descript": "สปาเก็ตตี้เส้นสดทำเองจากมือ ให้ความรู้สึกเหนียวนุ่ม ไม่แข็งกระด้าง ตัวซอสใช้เวลาในการทำ 3 ชั่วโมงทำให้รสชาติรสสัมผัสมีความกลมกล่อมและลงตัว"
+}, {
+    "Imagesfile": "food04",
+    "Foodname": "Wine Cabernet Sauvignon",
+    "Shopname": "SteakHouse",
+    "Price": 150,
+    "Popular": "review5",
+    "Descript": "เป็นไวน์ล้ำค่าที่เหมาะแก่การดื่นเฉลิมฉลอง เหมาะสำหรับผู้คนที่ต้องการดื่นด่ำกับบรรยากาศและรสชาติที่มีความสดชื่อ และ อร่อย"
+}, {
+    "Imagesfile": "food05",
+    "Foodname": "Chang Bottle Beer",
+    "Shopname": "SteakHouse",
+    "Price": 50,
+    "Popular": "review4",
+    "Descript": "เบียร์คุณภาพดี เหมาะสมกับราคาย่อมเยา เหมาะสมแก่ทุกโอกาส ให้รสชาติรสสัมผัสที่สบายมีความสดชื่น"
+}, {
+    "Imagesfile": "food06",
+    "Foodname": "Minere Drink Water",
+    "Shopname": "SteakHouse",
+    "Price": 10,
+    "Popular": "review3",
+    "Descript": "น้ำดื่มเกลือแร่ เหมาะสำหรับคนรักสุขภาพ และ มีราคาที่ย่อมเยา"
+}, {
+    "Imagesfile": "food07",
+    "Foodname": "French Fries",
+    "Shopname": "SteakHouse",
+    "Price": 50,
+    "Popular": "review2",
+    "Descript": "ของทานเล่น เหมาะแก่การรับประทานก่อนมื้อหลักเพื่อให้มีการรับรสสัมผัสที่ดีมากขึ้น"
+}, {
+    "Imagesfile": "food08",
+    "Foodname": "ice-cream",
+    "Shopname": "SteakHouse",
+    "Price": 10,
+    "Popular": "review1",
+    "Descript": "ไอศกรีมมีให้เลือกหลากรส เลือกรสคละกันได้มีรสชาติที่ได้มาตรฐาน "
+}]
